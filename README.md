@@ -51,7 +51,5 @@ This could be a helpful resource for beginners who want to learn how to set up a
    git push origin main
    ```
 
-## 📜 License
 
-This project is open-source and available under the MIT License.
 
